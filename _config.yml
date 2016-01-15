@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://the-startup-stack.com
+title: The Startup Stack
+email: avi@avi.io
+author: Avi Zurel
+description: > # "Write an awesome description for your new site here.
+  The startup stack is a framework to bootstrap your startup in the cloud. It's using sane default and it's production-ready and tested.
+copyright: 'Copyright &copy; 2015 The Startup Stack. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: docs
+    url: http://docs.the-startup-stack.com
+    icon: file
+  - title: github
+    icon: github
+    url: https://github.com/the-startup-stack
